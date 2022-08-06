@@ -1,10 +1,10 @@
+<img src="../Predictor.png" alt="Alt text" title="Optional title">
 
-![plot](../Predictor.png)
 # Landslide Predicting Program for KU Hackfest 2022
  A simple landslide detection project using Google Earth Engine, Python, HTML and CSS. 
 
 
-##team members
+## Team Members
 - Sudhansu koirala
 - Ayam Basyal 
 - Rajaram Karki
@@ -12,9 +12,6 @@
 - Mohit Pokhrel
 - Kalash Shrestha 
 
-
-
-https://img.shields.io/github/contributors/Rajaramkarki/TeamOgreHackfest
 
 
 ## Project Goals
