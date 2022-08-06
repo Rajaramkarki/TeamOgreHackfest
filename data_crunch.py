@@ -28,9 +28,9 @@ def binarize(img):
 
 
 
-im0 = Image.open(r"\data\gee_slope.jpg")
-im1 = Image.open(r"C:\Users\97798\Documents\TeamOgreHackfest\data\gee_rainfall.jpg")
-im2 = Image.open(r"C:\Users\97798\Documents\TeamOgreHackfest\data\gee_soil.jpg")
+im0 = Image.open("data\gee_slope.jpg")
+im1 = Image.open("data\gee_rainfall.jpg")
+im2 = Image.open("data\gee_soil.jpg")
 
 # im0 = ImageOps.invert(im0)
 # im1 = ImageOps.invert(im1)
