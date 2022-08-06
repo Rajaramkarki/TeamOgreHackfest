@@ -15,3 +15,18 @@ kalash shrestha
 2. using the analysis in addition with the local soil and weather data to accurately predict the occurance of landslide
 3. using twilio for communication to the group that might be affected by landlides.
 
+
+
+// regarding soil
+
+* types of soil and it's effect on causation of landslides
+    Relations Between Soil Development and Landslides
+    Arnaud J.A.M. Temme
+    Although landslides can occur in practically all soil types, maps of soil types and soil properties are often and successfully used as copredictors in statistically based landslide susceptibility modeling.
+
+*   Classification of soil by fao base on the properties of soil
+    https://www.fao.org/3/i3794en/I3794en.pdf
+
+*   Numerically represent the data obtained from the image classification of satellite imagary
+    higher value for soil types with higher probability of landslides
+
