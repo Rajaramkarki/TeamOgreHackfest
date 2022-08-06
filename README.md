@@ -1,5 +1,7 @@
+![plot](../Predictor.png)
 # Landslide Predicting Program for KU Hackfest 2022
 A simple landslide detection project using Google Earth Engine, Python, HTML and CSS. 
+
 
 ##Team Members
 - Sudhansu Koirala
@@ -20,7 +22,7 @@ https://img.shields.io/github/contributors/Rajaramkarki/TeamOgreHackfest
 
 
 
-// regarding soil
+## Regarding Soil
 
 * types of soil and it's effect on causation of landslides
     Relations Between Soil Development and Landslides
