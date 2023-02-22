@@ -37,7 +37,10 @@
 
 
 The output of the project is as follows, for the given input
+
 <img width="466" alt="Screenshot 2023-02-22 105005" src="https://user-images.githubusercontent.com/67723187/220527255-ecb6c184-51b4-4172-9d2e-d297534bf315.png">
+
+
 We obtained the following output which shows the possibility of Landslides in the given areas
 <img width="880" alt="Screenshot 2023-02-22 104931" src="https://user-images.githubusercontent.com/67723187/220527322-adf47e52-60d0-492b-9ff3-4fb22c579c65.png">
 
