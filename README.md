@@ -8,9 +8,10 @@
 - Sudhansu koirala
 - Ayam Basyal 
 - Rajaram Karki
+- Kalash Shrestha 
 - Sampurna Karki
 - Mohit Pokhrel
-- Kalash Shrestha 
+
 
 
 
